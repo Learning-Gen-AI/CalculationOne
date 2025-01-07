@@ -20,7 +20,7 @@ git clone https://github.com/Learning-Gen-Ai/calculationone.git
 cd calculationone
 
 # Install required packages
-pip install requests decimal
+pip install requests ollama
 ```
 
 ## Prerequisites
