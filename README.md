@@ -16,7 +16,7 @@ CalculationOne combines language models with Python tools to perform precise cal
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Learning-Gen-Ai/calculationone.git
+git clone https://github.com/TheMachineIsLearning/calculationone.git
 cd calculationone
 
 # Install required packages
